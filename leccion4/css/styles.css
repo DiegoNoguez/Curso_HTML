@@ -1,0 +1,21 @@
+h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+a:visited{
+    color:blueviolet;
+    text-decoration: none;
+}
+
+/* cunado se posiciona por arriba */
+a:hover{
+    color:yellowgreen;
+    text-decoration: underline;
+}
+
+a:active{
+    color: violet;
+    text-decoration: underline;
+}
