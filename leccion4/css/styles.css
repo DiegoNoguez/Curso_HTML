@@ -4,18 +4,31 @@ h1{
 
 }
 
-a:visited{
-    color:blueviolet;
+/*a:visited{
+/*    color:blueviolet;
+/*    text-decoration: none;
+/*}
+/*
+/*/
+/*a:hover{
+/*    color:yellowgreen;
+/*    text-decoration: underline;
+/*}
+/*
+/*a:active{
+/*    color: violet;
+/*    text-decoration: underline;
+/*} */ 
+
+/*a:link, a:visited {
+    background-color: aquamarine;
+    color: aqua;
+    padding: 15px 25px;
+    text-align:  center;
     text-decoration: none;
 }
 
-/* cunado se posiciona por arriba */
-a:hover{
-    color:yellowgreen;
-    text-decoration: underline;
-}
-
-a:active{
-    color: violet;
-    text-decoration: underline;
-}
+a:hover, a:active{
+    background-color: burlywood;
+     
+}*/
